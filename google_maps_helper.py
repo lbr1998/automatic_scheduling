@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 from typing import Union, Tuple
 
 # Please ensure you have set your API key
-API_KEY = 'AIzaSyAYIUeYv11ZkUdtepsO_NrHmVD57WYsw6w'  # Replace with your actual API key
+API_KEY = 'Replace with your actual API key'
 gmaps = googlemaps.Client(key=API_KEY)
 
 def calculate_travel_details(start_location: str, end_location: str, departure_time: Union[datetime, None] = None, arrival_time: Union[datetime, None] = None, mode: str = "transit") -> Tuple[float, float, datetime, datetime]:
