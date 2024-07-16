@@ -5,6 +5,7 @@ Hardware Components:
 1.	Computer or Server:
 	A machine capable of running Python and other necessary software libraries.
 	Recommended: At least 8GB of RAM and a modern multi-core CPU.
+
 Software Components:
 1.	Python 3.8+:
     Ensure you have Python 3.8 or later installed on your machine.
