@@ -1,0 +1,42 @@
+PickUpTime,Name,PickUpAddress,DropOffAddress,Disability,Priority
+8:00,Yvette Seidel,Ruth-Drexel-Str. ,Barlachstr. 24-26 / Pfenningparade,Rollstuhl,2
+8:00,Eva-Marie Rosenow,"Jella Lepmann Str. , Privat","Hella Lingg Str. 3a, Hausarzt",Blind,1
+8:10,Roland Hauffer,Minnewittstr. ,Lothstr. 62 / BFW Würzburg,Blind,2
+8:15,Marie Pohl,Danklstr. ,Lothstr. 62 / BFW Würzburg,Blind,2
+8:30,Stefani Heinrich,"Seidlstr. , Hotel Regent","Lothstr. 62, BFW",Gehbehindert,2
+8:30,Dimitri Heintze,"Seidlstr. , Hotel Regent","Lothstr. 62, BFW",Blind,2
+9:00,Emin Jüttner,Baubergerstr. ,Schleißheimerstr.,Rollstuhl,3
+9:15,Filippo Wilms,Zornedingerstr.,Orleanstr. 50 / KVR,Rollstuhl,5
+10:00,Claire Heser,"Hella Lingg Str. , Hausarzt",Jella Lepmann Str,Blind,6
+10:10,Petar Barkholz,Schliemannweg ,Rindermarkt 17 / Nierenzentrum,Gehbehindert,1
+10:15,Sara Vollbrecht,Mettenstr.,Notburgastr. 5 / Med X,Rollstuhl,1
+10:30,Filippo Wilms,Orleanstr. 50 / KVR,Zornedingerstr.,Blind,6
+10:30,Ferdinand Kohl,Josephsburgstr. ,Einsteinstr. 1 / Sparkasse,Rollstuhl,3
+11:00,Rotraud Stadelmann,Oettingenstr.,Thierschstr.47 / Dr. Linda Meyer,Rollstuhl,1
+10:45,Ivan Rudolph,Hochstätter Weg,Gubestr.5 / ASZ,Rollator,3
+10:50,Nancy Rogge,Renatastr. 58,Tumblingersr. 23 / Pysiotherapie,Rollstuhl,1
+11:00,Wolf-Dieter Faust,Nadistr.8,Elisenstr. 5 / Chiropraktik,Blind,1
+11:15,Eduard Stroh,Appezellerstr.,Maxhofstr. 9a / Physio,Blind,1
+11:30,Sara Vollbrecht,Notburgastr. 5 / Med X,Dachauerstr. 433 / Logopäde,Rollstuhl,1
+11:45,Ferdinand Kohl,Einsteinstr. 1 / Sparkasse,Josephsburgstr. ,Rollstuhl,6
+12:00,Ivan Rudolph,Gubestr.5 / ASZ,Hochstätter Weg								,Rollator,6
+12:20,Wolf-Dieter Faust,Elisenstr. 5 / Chiropraktik,Nadistr,Rollator,6
+12:35,Nancy Rogge,Tumblingersr. 23 / Pysiotherapie,Renatastr. 58,Rollstuhl,6
+12:30,Rotraud Stadelmann,Thierschstr.47 / Dr. Linda Meyer,Oettingenstr. ,Rollstuhl,6
+12:45,Petar Barkholz,Rindermarkt 17 / Nierenzentrum,Schliemannweg ,Gehbehindert,6
+12:45,Halina Plath,Hufnagelstr. ,Einsteinstr. 28 / VHS Haus B,Rollator,2
+13:00,Sara Vollbrecht,Dachauerstr. 433 / Logopäde,Mettenstr. ,Rollstuhl,6
+13:00,Stefani Heinrich,"Lothstr. 62, BFW","Seidlstr. 2, Hotel Regent",Blind,6
+13:00,Dimitri Heintze,"Lothstr. 62, BFW","Seidlstr. 2, Hotel Regent",Blind,6
+13:40,Yvette Seidel,Barlachstr. 24-26 / Pfenningparade,Garmischer Str. 241/ Stiftung ICP,Rollstuhl,3
+14:20,Othmar Ernst,Hechtseestr. ,Wörthstr. 12 / Hausarzt,Rollator,1
+15:00,Eduard Stroh,Maxhofstr. 9a / Physio,Appezellerstr,Rollator,6
+15:00,Marie Pohl,Lothstr. 62 / BFW Würzburg,Danklstr. ,Blind,6
+15:00,Roland Hauffer,Lothstr. 62 / BFW Würzburg,Minnewittstr. ,Blind,6
+15:00,Hanne-Lore Reising,Engadinerstr. ,Agricolastr. 119 / Friseur,Blind,3
+15:00,Halina Plath,Einsteinstr. 28 / VHS Haus B,Hufnagelstr. ,Rollator,6
+15:45,Othmar Ernst,Wörthstr. 12 / Hausarzt,Hechtseestr. ,Rollator,6
+16:00,Emin Jüttner,Schleißheimerstr. ,Baubergerstr. ,Rollstuhl,6
+16:00,Yvette Seidel,Garmischer Str. 241/ Stiftung ICP,Ruth-Drexel-Str. ,Rollstuhl,6
+16:30,Hanne-Lore Reising,Agricolastr. 119 / Friseur,Engadinerstr. ,Blind,6
+16:30,Rupert Hofmann,Canditplatz 9 / Carpe Diem,Hofangerstr. ,Blind,6
