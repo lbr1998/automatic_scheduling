@@ -69,7 +69,8 @@ def visualize_schedule(scheduler: TaskScheduler, schedule_date: datetime):
     plt.show()
     
     #Print failed assignments
-    failed = list(set(scheduler.failed_assignments))
+    unique_failed = list({tuple(d.items()) for d in scheduler.failed_assignments})
+    failed = [dict(t) for t in unique_failed]
     if failed:
         print("\nFailed Assignments:")
         for task in scheduler.failed_assignments:
